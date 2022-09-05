@@ -1,3 +1,4 @@
+
 import pprint
 
 
@@ -36,3 +37,7 @@ for row in f.readlines(): #for every row in the entire txt file...           #RE
                 frequency_count[word] = 1 #the dictionary key is added but the value is at 1
 
 print(frequency_count)  #pretty printing 
+
+
+
+
