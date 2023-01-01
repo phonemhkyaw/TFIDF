@@ -1,6 +1,6 @@
 import sys
 import pprint
-f = open("bible.txt", "r")
+f = open("fruits.txt", "r")
 
 # fruits = ["apple", "banana", "watermelon", "mango", "kiwi"]
 # print(fruits)
